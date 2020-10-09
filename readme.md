@@ -3,8 +3,8 @@ You can find the task description and data sets on the [kaggle](https://www.kagg
 You can also view the best prediction results [there](https://www.kaggle.com/c/allstate-claims-severity/leaderboard).  
 
 I tried 2 options of data preparation for 'cat' columns:
-1. One hot encoding (mae is about 1151 - 42.3 MB).  
-2. Label encoder + normalization (mae is about 1187 - 537 KB).  
+1. One hot encoding (mae is about 1148 - 36 MB).  
+2. Label encoder + normalization (mae is about 1175 - 714 KB).  
 
 ## Check it out on Google colab:
 1. [lab1_cat_one_hot](https://colab.research.google.com/drive/1Czaq7-Ubrx-qgmEiDR8HImPij79-VYCZ?usp=sharing)
